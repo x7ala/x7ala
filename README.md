@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x7ala - Hala Mohamed
 - 💞️ I’m interested in books, TV shows, & retail.
-- 🌱 I’m currently a Senior Software Engineering student.
+- 🌱 I’m  a Software Engineer.
 - 👀 I’m looking to create project collaborations with well versed partners to learn and improve.
 - 📫 How to reach me : 7halamohamed@gmail.com
 <!--- - ⚡ Fun fact: ... --->
